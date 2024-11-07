@@ -1,0 +1,8 @@
+Title:miss
+Full name:Tejashwini
+USN:1WT23CS048
+Semester:Third 
+Section:A
+Branch:computer science
+Year of admission:2023
+College name:GITW
