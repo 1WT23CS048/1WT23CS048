@@ -1,0 +1,10 @@
+Ttile:miss
+Full name:tejashwini
+usn:1WT23CS048
+Semester:third
+section:A
+Branch:computer science
+year of admission:2023
+SSLC:R.V
+PU College:shree vidhya
+UG Degree:B.E Computer science Engineering
