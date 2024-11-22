@@ -1,14 +1,5 @@
-<<<<<<< HEAD
+
 Title:miss
-Full name:Tejashwini
-USN:1WT23CS048
-Semester:Third 
-Section:A
-Branch:computer science
-Year of admission:2023
-College name:GITW
-=======
-Ttile:miss
 Full name:tejashwini
 usn:1WT23CS048
 Semester:third
@@ -18,4 +9,4 @@ year of admission:2023
 SSLC:R.V
 PU College:shree vidhya
 UG Degree:B.E Computer science Engineering
->>>>>>> feature-branch
+
