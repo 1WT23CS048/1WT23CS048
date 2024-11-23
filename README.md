@@ -1,4 +1,4 @@
-title:miss
+Title:miss
 full name:tejashwini
 usn:1WT23CS048
 semester:3rd
